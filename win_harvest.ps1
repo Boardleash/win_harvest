@@ -2,7 +2,7 @@
 ### WIN HARVEST ###
 ###################
 #
-# TITLE: win_harvest_v1.ps1
+# TITLE: win_harvest.ps1
 # AUTHOR: Boardleash (Derek)
 # DATE: Saturday, December 7 2024
 #
